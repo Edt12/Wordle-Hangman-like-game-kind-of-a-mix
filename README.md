@@ -1,6 +1,11 @@
 # Wordle-Hangman-like-game-kind-of-a-mix
 Wordle/Hangman like game i made using pygame it is a word guessing game and has a 50 6 leter words for the user to guess.
-It uses pygame for a gui.
+It uses pygame for a gui.It is best played in full screen mode as the letter Row does not fit on screen otherwise.Futhermore
+it is also easy to use as you just type a letter in and press enter to guess,there is also no need to worry about typing upper 
+or lower case letter as this program is not case sensitive.
+IMPORTANT
+If you run this in an IDE such as Vscode make sure you have the folder open as well as the main file as otherwise it will fail to find the background image and will crash
+
 Main Features
 -50 6 letter works
 -Row of letters to show which letters you have pressed
