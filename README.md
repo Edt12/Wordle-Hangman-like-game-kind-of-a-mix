@@ -4,11 +4,15 @@ It uses pygame for a gui.It is best played in full screen mode as the letter Row
 it is also easy to use as you just type a letter in and press enter to guess.
 
 Rules
+
 1.Only incorrect guesses will decrease your guesscount.
+
 2.If you reach your maximum number of guesses you win.
+
 3.If you complete the word you win.
 
 IMPORTANT
+
 If you run this in an IDE such as Vscode make sure you have the folder open as well as the main file as otherwise it will fail to find the background image and will crash
 
 Main Features
